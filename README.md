@@ -1,5 +1,10 @@
 <h1 align="center">Heyyy 👋 I'm Mukul Singh</h1>
 <h3 align="center">🚀 AI & ML Enthusiast • Full Stack Developer • Video Editor</h3>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mukulsingh24&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+</p>
 
 ---
 
@@ -33,10 +38,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/MukulSinghAI/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="48" height="48" alt="LeetCode"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:rmks1004@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail"/>
   </a>
@@ -64,9 +65,10 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MukulSinghAI&show_icons=true&theme=radical" alt="GitHub stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukulSinghAI&theme=radical" alt="streak" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mukulsingh24&show_icons=true&theme=radical" alt="GitHub stats" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukulsingh24&theme=radical" alt="streak" height="180em"/>
 </p>
+
 
 ---
 
