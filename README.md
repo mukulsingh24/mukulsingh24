@@ -1,63 +1,77 @@
 <h1 align="center">Heyyy 👋 I'm Mukul Singh</h1>
-<h3 align="center">🦄 Frontend Dev • UI/UX Designer • Video Editor</h3>
+<h3 align="center">🚀 AI & ML Enthusiast • Full Stack Developer • Video Editor</h3>
+
 ---
+
 ### ✨ About Me
 
-- 🔭 Currently building **Fake Medicine Detector**
-- 🌱 Learning: **DSA (Java)**, **UI/UX**, **Backend Development**, **ML**
-- 💬 Ask me about: `DSA`, `Video Editing`, `Figma`, `Front end Development`, `Design`, `Techie Aesthetic`
-- 📫 DM me at: **rmks1004@gmail.com**
+🎓 I’m a **3rd-year B.Tech student** specializing in **Artificial Intelligence & Machine Learning (AIML)**.  
+💡 Passionate about **problem-solving through DSA (Java)** and building **modern web interfaces** using **HTML, CSS, and JavaScript**.  
+🎨 Alongside tech, I bring a **creative edge** — designing posters & editing videos with **Canva, Photoshop, and DaVinci Resolve**.  
+👨‍💻 Currently, I’m working on projects like:  
+- 🔬 **Fake Medicine Detector (AI-based)**  
+- 💊 **Health Prediction System (ML-based)**  
+- 📚 **Student Task Scheduler (Full Stack)**  
+
+💼 Previously interned as a **Video Editor** at a **Tech Startup**, where I handled creative media & product visuals.  
+🌱 I’m constantly learning and exploring **Backend Development (Node.js, Express)** and **Machine Learning** concepts.
+
+💬 Ask me about: `DSA`, `Java`, `Frontend Dev`, `UI/UX`, `Video Editing`, `Design Thinking`  
+📫 Reach me at: **rmks1004@gmail.com**
 
 ---
 
-### ⚡ Fun Fact
-
-> I can go from editing a reel to writing Java logic without switching tabs 🧋💻🎧 
+### ⚡ Fun Fact  
+> I can jump from editing a reel 🎬 to debugging Java logic 💻 — without switching tabs 😎  
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me  
 
-<p align="left">
-  <a href="www.linkedin.com/in/mukul-singh-b26604288/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/mukul-singh-b26604288/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
----
-
-### 🛠️ My Toolbox:
-
-<p align="left"> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.oracle.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
-
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/MukulSinghAI/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="48" height="48" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rmks1004@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail"/>
   </a>
 </p>
 
 ---
+
+### 🛠️ My Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,react,nodejs,express,mongodb,mysql,figma,photoshop,canva,vscode,git,github" />
+</p>
+
+---
+
+### 🧠 Currently Exploring  
+
+- 🌍 Full Stack Development (MERN Stack)  
+- 🤖 AI/ML Projects using Python  
+- 🧩 Advanced DSA in Java  
+- 🎥 Creative editing using DaVinci Resolve  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MukulSinghAI&show_icons=true&theme=radical" alt="GitHub stats" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MukulSinghAI&theme=radical" alt="streak" height="180em"/>
+</p>
+
+---
+
+### 🧩 Quote That Keeps Me Going  
+
+> “Stay curious, keep building, and code with a little chaos ⚡”
+
 ---
