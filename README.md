@@ -1,6 +1,5 @@
 <h1 align="center">Heyyy 👋 I'm Mukul Singh</h1>
 <h3 align="center">🚀 AI & ML Enthusiast • Full Stack Developer • Video Editor</h3>
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mukulsingh24&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
