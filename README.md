@@ -45,15 +45,15 @@
 
 ---
 
-### 💊 Fake Medicine Detector
-AI-powered system for **counterfeit medicine detection**
+### 🧠 AI Resume Analyzer & Interview Platform
+AI-powered platform for **resume analysis and interview preparation**
 
-- Image-based verification
-- ML model for medicine classification
-- Backend verification APIs
+- ATS score evaluation & skill gap detection
+- AI-generated resume suggestions
+- Role-based interview question generation
 
 💻 **Repo:**  
-https://github.com/mukulsingh24/Fake-Medicine-Detector
+https://github.com/mukulsingh24/AI-Resume-Analyzer
 
 ---
 
