@@ -45,16 +45,24 @@
 
 ---
 
-### 🧠 AI Resume Analyzer & Interview Platform
-AI-powered platform for **resume analysis and interview preparation**
+### 🧠 Apna Interview — AI Resume Analyzer & Interview Preparation Platform
 
-- ATS score evaluation & skill gap detection
-- AI-generated resume suggestions
-- Role-based interview question generation
+AI-powered career preparation platform for **resume optimization, job matching, and personalized interview practice**.
+
+- AI-powered resume analysis with ATS compatibility scoring
+- Resume strengths, weaknesses & improvement suggestions
+- Job description matching with skill & keyword gap detection
+- Role-based AI interview question generation
+- AI-powered interview answer evaluation & feedback
+- Personalized dashboard with activity history
+- Secure authentication with Firebase
+- PostgreSQL database with Prisma ORM
+
+🔗 **Live:**  
+https://apnainterview9.vercel.app/
 
 💻 **Repo:**  
-https://github.com/mukulsingh24/AI-Resume-Analyzer
-
+https://github.com/mukulsingh24/Apna-Interview
 ---
 
 # 🛠️ Tech Stack
