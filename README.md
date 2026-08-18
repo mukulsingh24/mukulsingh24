@@ -87,7 +87,7 @@ Flutter • Dart • FastAPI • PostgreSQL • Supabase • Firebase Authentica
 
 🔗 **Live** https://drive.google.com/file/d/1DCF7-4iMK378SUr2_GcJy-0YoyXOlqYX/view?usp=sharing
 
-💻 **Repository:** https://github.com/mukulsingh24/FitFlow
+💻 **Repository:** https://github.com/mukulsingh24/FitFlow-Fitness-App
 
 ---
 
